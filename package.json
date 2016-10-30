@@ -1,0 +1,24 @@
+{
+  "name": "node-psvr-trybots",
+  "version": "1.0.0",
+  "description": "control penguin using node-psvr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdra0624/node-psvr-trybots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdra0624/node-psvr-trybots/issues"
+  },
+  "homepage": "https://github.com/cdra0624/node-psvr-trybots#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "psvr": "0.0.5"
+  }
+}
