@@ -14,5 +14,5 @@ server.start(app, http, PORT);
 var PSVR = require("psvr");
 var device = new PSVR();
 
-device.on("data", function(data) {
-});
+/*device.on("data", function(data) {
+});*/
